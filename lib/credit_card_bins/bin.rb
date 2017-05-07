@@ -114,6 +114,6 @@ class CreditCardBins::Bin
   end
 
   def prepaid?
-    @data["type"] == "PREPAID"
+    @data["type"] == "PREPAID" || @data["category"] == "PREPAID"
   end
 end
