@@ -184,11 +184,11 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: ''
+  issuer: CREDIT AGRICOLE EGYPT
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
 '445919':
   bin: '445919'
   brand: VISA

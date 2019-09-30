@@ -274,11 +274,11 @@
   brand: VISA
   type: DEBIT
   category: ELECTRON
-  issuer: TELLER, A.S.
+  issuer: RIYAD BANK
   country:
-    alpha_2: 'NO'
-    alpha_3: NOR
-    name: Norway
+    alpha_2: 'SA'
+    alpha_3: SAU
+    name: Saudi Arabia
 '457928':
   bin: '457928'
   brand: VISA
