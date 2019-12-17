@@ -582,13 +582,13 @@
 '520058':
   bin: '520058'
   brand: MASTERCARD
-  type: CREDIT
+  type: DEBIT
   category: STANDARD
-  issuer: REDEBAN MULTICOLOR, S.A.
+  issuer: RIYAD BANK
   country:
-    alpha_2: CO
-    alpha_3: COL
-    name: Colombia
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
 '520059':
   bin: '520059'
   brand: MASTERCARD

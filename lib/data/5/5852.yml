@@ -214,7 +214,7 @@
   brand: MAESTRO
   type: DEBIT
   category: STANDARD
-  issuer: ''
+  issuer: SAUDI AMERICAN BANK
   country:
     alpha_2: SA
     alpha_3: SAU

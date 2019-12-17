@@ -254,7 +254,7 @@
   brand: MASTERCARD
   type: DEBIT
   category: ''
-  issuer: ''
+  issuer: NATIONAL COMMERCIAL BANK
   country:
     alpha_2: SA
     alpha_3: SAU
