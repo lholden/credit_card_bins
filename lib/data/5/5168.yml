@@ -154,11 +154,11 @@
   brand: MASTERCARD
   type: DEBIT
   category: ''
-  issuer: WESTPAC BANKING CORPORATION
+  issuer: Swedbank
   country:
-    alpha_2: AU
-    alpha_3: AUS
-    name: Australia
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
 '516816':
   bin: '516816'
   brand: MASTERCARD
