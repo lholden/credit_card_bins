@@ -942,9 +942,9 @@
 '538994':
   bin: '538994'
   brand: MASTERCARD
-  type: ''
-  category: ''
-  issuer: ''
+  type: CREDIT
+  category: WORLD BLACK
+  issuer: TINKOFF
   country:
     alpha_2: US
     alpha_3: USA

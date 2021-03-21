@@ -722,9 +722,9 @@
 '437772':
   bin: '437772'
   brand: VISA
-  type: ''
-  category: ''
-  issuer: ''
+  type: DEBIT
+  category: REWARDS
+  issuer: TINKOFF
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -732,9 +732,9 @@
 '437773':
   bin: '437773'
   brand: VISA
-  type: ''
-  category: ''
-  issuer: ''
+  type: CREDIT
+  category: REWARDS
+  issuer: TINKOFF
   country:
     alpha_2: RU
     alpha_3: RUS

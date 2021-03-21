@@ -982,9 +982,9 @@
 '417398':
   bin: '417398'
   brand: VISA
-  type: ''
-  category: ''
-  issuer: ''
+  type: DEBIT
+  category: REWARDS
+  issuer: SBERBANK
   country:
     alpha_2: US
     alpha_3: USA

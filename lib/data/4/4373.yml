@@ -504,7 +504,7 @@
   brand: VISA
   type: CREDIT
   category: PLATINUM
-  issuer: CJSC ALFA-BANK
+  issuer: ALFA-BANK
   country:
     alpha_2: BY
     alpha_3: BLR

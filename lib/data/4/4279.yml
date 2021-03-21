@@ -4,7 +4,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -14,7 +14,7 @@
   brand: VISA
   type: DEBIT
   category: PREMIER
-  issuer: SBERBANK OF RUSSIA
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -24,7 +24,7 @@
   brand: VISA
   type: DEBIT
   category: PREMIER
-  issuer: SBERBANK OF RUSSIA
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -34,7 +34,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -44,7 +44,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -54,7 +54,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -64,7 +64,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -74,7 +74,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -84,7 +84,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -94,7 +94,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -104,7 +104,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -114,7 +114,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -124,7 +124,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -134,7 +134,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -144,7 +144,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -154,7 +154,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -164,7 +164,7 @@
   brand: VISA
   type: DEBIT
   category: PREMIER
-  issuer: SBERBANK OF RUSSIA
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -174,7 +174,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -184,7 +184,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -194,7 +194,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -204,7 +204,7 @@
   brand: VISA
   type: DEBIT
   category: PREMIER
-  issuer: SBERBANK OF RUSSIA
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -214,7 +214,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -224,7 +224,7 @@
   brand: VISA
   type: DEBIT
   category: PREMIER
-  issuer: SBERBANK OF RUSSIA
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -234,7 +234,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -244,7 +244,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -254,7 +254,7 @@
   brand: VISA
   type: DEBIT
   category: PREMIER
-  issuer: SBERBANK OF RUSSIA
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -264,7 +264,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -274,7 +274,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -284,7 +284,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -294,7 +294,7 @@
   brand: VISA
   type: DEBIT
   category: PREMIER
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -304,7 +304,7 @@
   brand: VISA
   type: DEBIT
   category: PREMIER
-  issuer: SBERBANK OF RUSSIA
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -314,7 +314,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -324,7 +324,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -334,7 +334,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -344,7 +344,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -354,7 +354,7 @@
   brand: VISA
   type: DEBIT
   category: PREMIER
-  issuer: SBERBANK OF RUSSIA
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -364,7 +364,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -374,7 +374,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -384,7 +384,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -394,7 +394,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -404,7 +404,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -414,7 +414,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -424,7 +424,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -434,7 +434,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -444,7 +444,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -454,7 +454,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -464,7 +464,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -474,7 +474,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -484,7 +484,7 @@
   brand: VISA
   type: DEBIT
   category: PREMIER
-  issuer: SBERBANK OF RUSSIA
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -494,7 +494,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -504,7 +504,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -514,7 +514,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -524,7 +524,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -534,7 +534,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -544,7 +544,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -554,7 +554,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -564,7 +564,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -574,7 +574,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -584,7 +584,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -594,7 +594,7 @@
   brand: VISA
   type: DEBIT
   category: PREMIER
-  issuer: SBERBANK OF RUSSIA
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -604,7 +604,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -614,7 +614,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -624,7 +624,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -634,7 +634,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -644,7 +644,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -654,7 +654,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -664,7 +664,7 @@
   brand: VISA
   type: DEBIT
   category: PREMIER
-  issuer: SBERBANK OF RUSSIA
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -674,7 +674,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -684,7 +684,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -694,7 +694,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -704,7 +704,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -714,7 +714,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -724,7 +724,7 @@
   brand: VISA
   type: DEBIT
   category: PREMIER
-  issuer: SBERBANK OF RUSSIA
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -734,7 +734,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -744,7 +744,7 @@
   brand: VISA
   type: DEBIT
   category: PREMIER
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -754,7 +754,7 @@
   brand: VISA
   type: DEBIT
   category: PREMIER
-  issuer: SBERBANK OF RUSSIA
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -764,7 +764,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -774,7 +774,7 @@
   brand: VISA
   type: DEBIT
   category: PREMIER
-  issuer: SBERBANK OF RUSSIA
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -784,7 +784,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -794,7 +794,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -804,7 +804,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -814,7 +814,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -824,7 +824,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -834,7 +834,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -844,7 +844,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -854,7 +854,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -864,7 +864,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -874,7 +874,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -884,7 +884,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -894,7 +894,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -904,7 +904,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -914,7 +914,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -924,7 +924,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -934,7 +934,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -944,7 +944,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -954,7 +954,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -964,7 +964,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -974,7 +974,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -984,7 +984,7 @@
   brand: VISA
   type: ''
   category: ''
-  issuer: SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -994,7 +994,7 @@
   brand: VISA
   type: DEBIT
   category: PREMIER
-  issuer: SBERBANK OF RUSSIA
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS

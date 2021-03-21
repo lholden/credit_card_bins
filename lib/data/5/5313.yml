@@ -104,7 +104,7 @@
   brand: MASTERCARD
   type: CREDIT
   category: STANDARD
-  issuer: SBERBANK OF RUSSIA
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS

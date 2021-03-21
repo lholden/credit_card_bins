@@ -762,13 +762,13 @@
 '481776':
   bin: '481776'
   brand: VISA
-  type: ''
-  category: ''
-  issuer: ''
+  type: DEBIT
+  category: CLASSIC
+  issuer: 'SBERBANK'
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
 '481777':
   bin: '481777'
   brand: VISA
@@ -812,13 +812,13 @@
 '481781':
   bin: '481781'
   brand: VISA
-  type: ''
-  category: ''
-  issuer: ''
+  type: CREDIT
+  category: SIGNATURE
+  issuer: SBERBANK
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
 '481782':
   bin: '481782'
   brand: VISA

@@ -104,7 +104,7 @@
   brand: VISA
   type: CREDIT
   category: PLATINUM
-  issuer: CJSC ALFA-BANK
+  issuer: ALFA-BANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -114,7 +114,7 @@
   brand: VISA
   type: DEBIT
   category: PLATINUM
-  issuer: CJSC ALFA-BANK
+  issuer: ALFA-BANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -504,7 +504,7 @@
   brand: VISA
   type: DEBIT
   category: ''
-  issuer: CJSC ALFA-BANK
+  issuer: ALFA-BANK
   country:
     alpha_2: RU
     alpha_3: RUS

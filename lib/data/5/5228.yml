@@ -284,7 +284,7 @@
   brand: MASTERCARD
   type: CREDIT
   category: WORLD CARD
-  issuer: COMMERCIAL INNOVATION BANK ALFA-BANK
+  issuer: ALFA-BANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -603,8 +603,8 @@
   bin: '522860'
   brand: MASTERCARD
   type: CREDIT
-  category: ''
-  issuer: ''
+  category: WORLD
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS

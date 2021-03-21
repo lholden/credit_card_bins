@@ -4,7 +4,7 @@
   brand: VISA
   type: CREDIT
   category: CLASSIC
-  issuer: CJSC ALFA-BANK
+  issuer: ALFA-BANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -284,7 +284,7 @@
   brand: VISA
   type: CREDIT
   category: CLASSIC
-  issuer: CJSC ALFA-BANK
+  issuer: ALFA-BANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -294,7 +294,7 @@
   brand: VISA
   type: CREDIT
   category: PREMIER
-  issuer: CJSC ALFA-BANK
+  issuer: ALFA-BANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -814,7 +814,7 @@
   brand: VISA
   type: DEBIT
   category: CLASSIC
-  issuer: CJSC ALFA-BANK
+  issuer: ALFA-BANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -824,7 +824,7 @@
   brand: VISA
   type: DEBIT
   category: PREMIER
-  issuer: CJSC ALFA-BANK
+  issuer: ALFA-BANK
   country:
     alpha_2: RU
     alpha_3: RUS

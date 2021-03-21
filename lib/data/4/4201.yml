@@ -24,7 +24,7 @@
   brand: VISA
   type: DEBIT
   category: CLASSIC
-  issuer: CJSC ALFA-BANK
+  issuer: ALFA-BANK
   country:
     alpha_2: UA
     alpha_3: UKR
@@ -34,7 +34,7 @@
   brand: VISA
   type: DEBIT
   category: CLASSIC
-  issuer: CJSC ALFA-BANK
+  issuer: ALFA-BANK
   country:
     alpha_2: UA
     alpha_3: UKR
@@ -44,7 +44,7 @@
   brand: VISA
   type: DEBIT
   category: GOLD PREMIUM
-  issuer: CJSC ALFA-BANK
+  issuer: ALFA-BANK
   country:
     alpha_2: UA
     alpha_3: UKR
@@ -54,7 +54,7 @@
   brand: VISA
   type: DEBIT
   category: ELECTRON
-  issuer: CJSC ALFA-BANK
+  issuer: ALFA-BANK
   country:
     alpha_2: UA
     alpha_3: UKR
@@ -64,7 +64,7 @@
   brand: VISA
   type: DEBIT
   category: ELECTRON
-  issuer: CJSC ALFA-BANK
+  issuer: ALFA-BANK
   country:
     alpha_2: UA
     alpha_3: UKR
@@ -74,7 +74,7 @@
   brand: VISA
   type: DEBIT
   category: BUSINESS
-  issuer: CJSC ALFA-BANK
+  issuer: ALFA-BANK
   country:
     alpha_2: UA
     alpha_3: UKR
@@ -84,7 +84,7 @@
   brand: VISA
   type: DEBIT
   category: BUSINESS
-  issuer: CJSC ALFA-BANK
+  issuer: ALFA-BANK
   country:
     alpha_2: UA
     alpha_3: UKR

@@ -2,9 +2,9 @@
 '557000':
   bin: '557000'
   brand: MASTERCARD
-  type: ''
-  category: ''
-  issuer: NON-BANKING CREDIT ORG UNITED SETTLEMENT SYSTEM
+  type: DEBIT
+  category: WORLD
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS

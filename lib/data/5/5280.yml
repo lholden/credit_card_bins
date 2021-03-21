@@ -412,13 +412,13 @@
 '528041':
   bin: '528041'
   brand: MASTERCARD
-  type: CREDIT
-  category: ''
-  issuer: E. SUN COMMERCIAL BANK CO., LTD.
+  type: DEBIT
+  category: WORLD BLACK
+  issuer: TINKOFF
   country:
-    alpha_2: TW
-    alpha_3: TWN
-    name: Taiwan
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
 '528042':
   bin: '528042'
   brand: MASTERCARD

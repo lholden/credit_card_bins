@@ -524,7 +524,7 @@
   brand: VISA
   type: DEBIT
   category: ELECTRON
-  issuer: CJSC ALFA-BANK
+  issuer: ALFA-BANK
   country:
     alpha_2: RU
     alpha_3: RUS
