@@ -704,11 +704,11 @@
   brand: JCB
   type: CREDIT
   category: ''
-  issuer: JCB INTERNATIONAL CREDIT CARD CO., LTD.
+  issuer: BANK SINOPAC
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
 '356371':
   bin: '356371'
   brand: JCB
