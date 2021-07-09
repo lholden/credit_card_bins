@@ -603,12 +603,12 @@
   bin: '405860'
   brand: VISA
   type: DEBIT
-  category: ELECTRON
-  issuer: SPAREKASSEN SJAELLAND
+  category: ''
+  issuer: BANK SINOPAC
   country:
-    alpha_2: DK
-    alpha_3: DNK
-    name: Denmark
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
 '405861':
   bin: '405861'
   brand: VISA

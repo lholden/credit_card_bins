@@ -974,11 +974,11 @@
   brand: VISA
   type: CREDIT
   category: CLASSIC
-  issuer: SEABOARD C.U.
+  issuer: BANK SINOPAC
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
 '414898':
   bin: '414898'
   brand: VISA
