@@ -42,13 +42,13 @@
 '539204':
   bin: '539204'
   brand: MASTERCARD
-  type: ''
+  type: 'CREDIT'
   category: ''
-  issuer: ''
+  issuer: BANK SINOPAC
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
 '539205':
   bin: '539205'
   brand: MASTERCARD
