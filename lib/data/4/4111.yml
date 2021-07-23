@@ -112,7 +112,7 @@
 '411111':
   bin: '411111'
   brand: VISA
-  type: ''
+  type: CREDIT
   category: ''
   issuer: JPMORGAN CHASE BANK, N.A.
   country:

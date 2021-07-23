@@ -221,14 +221,14 @@
     name: United States
 '603522':
   bin: '603522'
-  brand: MAESTRO
-  type: DEBIT
+  brand: CABAL
+  type: CREDIT
   category: ''
-  issuer: ''
+  issuer: Cabal
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
 '603523':
   bin: '603523'
   brand: MAESTRO

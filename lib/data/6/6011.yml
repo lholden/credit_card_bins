@@ -99,6 +99,16 @@
     alpha_2: US
     alpha_3: USA
     name: United States
+'601111':
+  bin: '601111'
+  brand: DISCOVER
+  type: CREDIT
+  category: PERSONAL
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
 '601120':
   bin: '601120'
   brand: DISCOVER

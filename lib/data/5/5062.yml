@@ -1,0 +1,11 @@
+---
+'506228':
+  bin: '506228'
+  brand: CARNET
+  type: DEBIT
+  category: PREPAID
+  issuer: Banorte
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico

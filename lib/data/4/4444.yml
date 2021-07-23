@@ -332,7 +332,7 @@
 '444433':
   bin: '444433'
   brand: VISA
-  type: ''
+  type: CREDIT
   category: ''
   issuer: ''
   country:

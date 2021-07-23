@@ -552,8 +552,8 @@
 '555555':
   bin: '555555'
   brand: MASTERCARD
-  type: ''
-  category: ''
+  type: DEBIT
+  category: PREPAID
   issuer: ''
   country:
     alpha_2: US

@@ -1,0 +1,10 @@
+'222300':
+  bin: '222300'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ACQUIRER ONLY
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
