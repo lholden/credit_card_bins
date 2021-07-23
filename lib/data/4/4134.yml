@@ -262,9 +262,9 @@
 '413426':
   bin: '413426'
   brand: VISA
-  type: CREDIT
-  category: CLASSIC
-  issuer: BRE BANK SPOLKA AKCYJNA
+  type: DEBIT
+  category: BUSINESS
+  issuer: MBANK, S.A.
   country:
     alpha_2: PL
     alpha_3: POL
