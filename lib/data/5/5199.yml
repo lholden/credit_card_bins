@@ -222,23 +222,23 @@
 '519922':
   bin: '519922'
   brand: MASTERCARD
-  type: ''
+  type: 'CREDIT'
   category: ''
-  issuer: BANK OF MONTREAL
+  issuer: BANK SINOPAC
   country:
-    alpha_2: CA
-    alpha_3: CAN
-    name: Canada
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
 '519923':
   bin: '519923'
   brand: MASTERCARD
-  type: ''
+  type: 'CREDIT'
   category: ''
-  issuer: BANK OF MONTREAL
+  issuer: BANK SINOPAC
   country:
-    alpha_2: CA
-    alpha_3: CAN
-    name: Canada
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
 '519924':
   bin: '519924'
   brand: MASTERCARD
@@ -442,13 +442,13 @@
 '519944':
   bin: '519944'
   brand: MASTERCARD
-  type: ''
+  type: 'CREDIT'
   category: ''
-  issuer: BANK OF MONTREAL
+  issuer: BANK SINOPAC
   country:
-    alpha_2: CA
-    alpha_3: CAN
-    name: Canada
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
 '519945':
   bin: '519945'
   brand: MASTERCARD
