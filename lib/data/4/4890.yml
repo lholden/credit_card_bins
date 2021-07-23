@@ -422,9 +422,9 @@
 '489042':
   bin: '489042'
   brand: VISA
-  type: ''
-  category: ''
-  issuer: ''
+  type: DEBIT
+  category: GOLD
+  issuer: CJSC UNICREDIT BANK
   country:
     alpha_2: US
     alpha_3: USA

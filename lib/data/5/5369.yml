@@ -612,9 +612,9 @@
 '536961':
   bin: '536961'
   brand: MASTERCARD
-  type: ''
-  category: ''
-  issuer: ''
+  type: CREDIT
+  category: PLATINUM
+  issuer: SBERBANK
   country:
     alpha_2: US
     alpha_3: USA

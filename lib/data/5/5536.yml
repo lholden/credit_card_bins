@@ -912,9 +912,9 @@
 '553691':
   bin: '553691'
   brand: MASTERCARD
-  type: 'DEBIT'
-  category: ''
-  issuer: 'TINKOFF CREDIT SYSTEMS BANK (CJSC)'
+  type: DEBIT
+  category: WORLD
+  issuer: TINKOFF
   country:
     alpha_2: RU
     alpha_3: RUS

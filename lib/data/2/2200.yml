@@ -1,0 +1,20 @@
+'220024':
+  bin: '220024'
+  brand: NSPK MIR
+  type: DEBIT
+  category: PREMIUM
+  issuer: 'VTB BANK OJSC'
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'220077':
+  bin: '220077'
+  brand: NSPK MIR
+  type: DEBIT
+  category: CLASSIC
+  issuer: 'POCHTA BANK'
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation

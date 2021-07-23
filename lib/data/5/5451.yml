@@ -523,8 +523,8 @@
   bin: '545152'
   brand: MASTERCARD
   type: CREDIT
-  category: ''
-  issuer: ''
+  category: WORLD
+  issuer: SBERBANK
   country:
     alpha_2: RU
     alpha_3: RUS

@@ -692,13 +692,13 @@
 '533669':
   bin: '533669'
   brand: MASTERCARD
-  type: ''
-  category: ''
-  issuer: ''
+  type: CREDIT
+  category: STANDARD
+  issuer: SBERBANK
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
 '533670':
   bin: '533670'
   brand: MASTERCARD

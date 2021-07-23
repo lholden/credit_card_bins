@@ -1,0 +1,10 @@
+'220220':
+  bin: '220220'
+  brand: NSPK MIR
+  type: DEBIT
+  category: CLASSIC
+  issuer: 'SBERBANK'
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation

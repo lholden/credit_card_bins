@@ -494,7 +494,7 @@
   brand: MASTERCARD
   type: DEBIT
   category: 
-  issuer: CJSC ALFA-BANK
+  issuer: ALFA-BANK
   country:
     alpha_2: RU
     alpha_3: RUS
@@ -574,7 +574,7 @@
   brand: MASTERCARD
   type: CREDIT
   category: NEW WORLD
-  issuer: COMMERCIAL INNOVATION BANK ALFA-BANK
+  issuer: ALFA-BANK
   country:
     alpha_2: RU
     alpha_3: RUS
