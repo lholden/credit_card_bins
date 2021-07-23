@@ -952,13 +952,13 @@
 '407395':
   bin: '407395'
   brand: VISA
-  type: ''
+  type: DEBIT
   category: ''
-  issuer: ''
+  issuer: ALINMA BANK
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
 '407396':
   bin: '407396'
   brand: VISA

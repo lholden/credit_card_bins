@@ -764,7 +764,7 @@
   brand: MASTERCARD
   type: DEBIT
   category: STANDARD
-  issuer: ''
+  issuer: NATIONAL BANK OF BAHRAIN
   country:
     alpha_2: SA
     alpha_3: SAU

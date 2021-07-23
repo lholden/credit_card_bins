@@ -952,8 +952,8 @@
 '478295':
   bin: '478295'
   brand: VISA
-  type: DEBIT
-  category: Platinum
+  type: CREDIT
+  category: PLATINUM
   issuer: SAUDI INVESTMENT BANK
   country:
     alpha_2: SA
@@ -962,7 +962,7 @@
 '478296':
   bin: '478296'
   brand: VISA
-  type: Traditional
+  type: TRADITIONAL
   category: DEBIT
   issuer: SAUDI INVESTMENT BANK
   country:

@@ -602,13 +602,13 @@
 '530060':
   bin: '530060'
   brand: MASTERCARD
-  type: CREDIT
-  category: GOLD
-  issuer: BANK OF AMERICA, N.A.
+  type: DEBIT
+  category: ''
+  issuer: FIRST ABU DHABI BANK
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
 '530061':
   bin: '530061'
   brand: MASTERCARD

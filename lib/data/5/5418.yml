@@ -22,13 +22,13 @@
 '541802':
   bin: '541802'
   brand: MASTERCARD
-  type: ''
-  category: ''
-  issuer: ''
+  type: CREDIT
+  category: WORLD
+  issuer: RIYADH BANK
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: SA
+    alpha_3: SAU
+    name: SAUDI ARABIA
 '541803':
   bin: '541803'
   brand: MASTERCARD

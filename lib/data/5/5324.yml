@@ -482,13 +482,13 @@
 '532448':
   bin: '532448'
   brand: MASTERCARD
-  type: ''
-  category: ''
-  issuer: ''
+  type: CREDIT
+  category: WORLD
+  issuer: NATIONAL COMMERCIAL BANK
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
 '532449':
   bin: '532449'
   brand: MASTERCARD

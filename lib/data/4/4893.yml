@@ -184,7 +184,7 @@
   brand: VISA
   type: DEBIT
   category: ''
-  issuer: ''
+  issuer: BANK AL JAZIRA
   country:
     alpha_2: SA
     alpha_3: SAU
@@ -194,7 +194,7 @@
   brand: VISA
   type: DEBIT
   category: ''
-  issuer: ''
+  issuer: BANK AL JAZIRA
   country:
     alpha_2: SA
     alpha_3: SAU

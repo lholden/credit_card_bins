@@ -412,13 +412,13 @@
 '537641':
   bin: '537641'
   brand: MASTERCARD
-  type: ''
-  category: ''
+  type: CREDIT
+  category: WORLD ELITE
   issuer: ''
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: AE
+    alpha_3: UAE
+    name: United Arab Emirates
 '537642':
   bin: '537642'
   brand: MASTERCARD

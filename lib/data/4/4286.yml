@@ -714,7 +714,7 @@
   brand: VISA
   type: DEBIT
   category: PREMIER
-  issuer: ''
+  issuer: ALINMA BANK
   country:
     alpha_2: SA
     alpha_3: SAU
@@ -724,7 +724,7 @@
   brand: VISA
   type: DEBIT
   category: PLATINUM
-  issuer: ''
+  issuer: ALINMA BANK
   country:
     alpha_2: SA
     alpha_3: SAU
@@ -734,7 +734,7 @@
   brand: VISA
   type: DEBIT
   category: INFINITE
-  issuer: ''
+  issuer: ALINMA BANK
   country:
     alpha_2: SA
     alpha_3: SAU

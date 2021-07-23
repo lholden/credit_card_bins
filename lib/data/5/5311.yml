@@ -962,13 +962,13 @@
 '531196':
   bin: '531196'
   brand: MASTERCARD
-  type: ''
+  type: DEBIT
   category: ''
-  issuer: NORWEST BANK IOWA N.A.
+  issuer: FIRST ABU DHABI BANK
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
 '531197':
   bin: '531197'
   brand: MASTERCARD

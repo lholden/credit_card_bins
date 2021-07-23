@@ -972,13 +972,13 @@
 '407197':
   bin: '407197'
   brand: VISA
-  type: CREDIT
-  category: GOLD PREMIUM
-  issuer: CITIBANK (SOUTH DAKOTA), N.A.
+  type: DEBIT
+  category:
+  issuer: ALINMA BANK
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
 '407198':
   bin: '407198'
   brand: VISA
